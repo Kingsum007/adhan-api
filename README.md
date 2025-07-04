@@ -19,7 +19,7 @@ This is a simple REST API built with **Node.js**, **Express**, and **Axios** tha
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/adhan-api.git
+   git clone https://github.com/Kingsum007/adhan-api.git
    cd adhan-api
    ```
 
